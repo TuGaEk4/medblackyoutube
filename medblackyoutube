@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
-<items>
-<item>
-<title> [COLOR green]River OF Dreams [/COLOR yellow ]Ultimate Patagonia Trout Fishing </title>
-<utube>zpBQP-ueIUE</ubube>
+<channels>
+</channels>
+<channel>
+<name>[COLOR yellow][B]River OF Dreams Ultimate Patagonia Trout Fishing [/COLOR green][/B]</name>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<info>
+<utube>zpBQP-ueIUE</utube>
+<info></info>
+</channel>
